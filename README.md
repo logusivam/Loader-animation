@@ -16,7 +16,7 @@ You can see a live demo of the project [here](https://logusivam.github.io/Loader
 To use this project, simply download or clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/loader-animation.git
+git clone https://github.com/logusivam/loader-animation.git
 ```
 
 Alternatively, you can directly copy the HTML and CSS code into your project files.
