@@ -4,7 +4,7 @@ This project demonstrates how to create a loader animation using HTML and CSS. T
 
 ## Demo
 
-You can see a live demo of the project [here](#).
+You can see a live demo of the project [here](https://logusivam.github.io/Loader-animation/).
 
 ## Features
 
