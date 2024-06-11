@@ -6,6 +6,8 @@ This project demonstrates how to create a loader animation using HTML and CSS. T
 
 You can see a live demo of the project [here](https://logusivam.github.io/Loader-animation/).
 
+[CLICK HERE TO SUBSCRIBE MY YOUTUBE CHANNEL](https://www.youtube.com/@Logusivamacademy26)
+
 ## Features
 
 - **Simple Loader Animation**: A visually appealing loader animation to indicate background processes.
